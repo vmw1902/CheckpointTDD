@@ -1,2 +1,4 @@
 D:\Intrinsic\PlatformOneProjects\TDD Exercise\Checkpoint\usaf-populatron-cpp\TDDCheckpoint\populatorn-vscode\populatron-vscode\x64\Debug\populatron-vscode.exe
 D:\Intrinsic\PlatformOneProjects\TDD Exercise\Checkpoint\usaf-populatron-cpp\TDDCheckpoint\populatorn-vscode\populatron-vscode\x64\Debug\populatron-vscode.pdb
+D:\Intrinsic\PlatformOneProjects\TDD Exercise\Checkpoint\usaf-populatron-cpp\TDDCheckpoint\populatorn-vscode\CheckpointTDD\CheckpointTDD\x64\Debug\populatron-vscode.exe
+D:\Intrinsic\PlatformOneProjects\TDD Exercise\Checkpoint\usaf-populatron-cpp\TDDCheckpoint\populatorn-vscode\CheckpointTDD\CheckpointTDD\x64\Debug\populatron-vscode.pdb

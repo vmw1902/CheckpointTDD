@@ -1,3 +1,2 @@
-﻿  processPop.cpp
-D:\Intrinsic\PlatformOneProjects\TDD Exercise\Checkpoint\usaf-populatron-cpp\TDDCheckpoint\populatorn-vscode\populatron-vscode\processPop.cpp(60,12): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'std::string'
-  populatron-vscode.vcxproj -> D:\Intrinsic\PlatformOneProjects\TDD Exercise\Checkpoint\usaf-populatron-cpp\TDDCheckpoint\populatorn-vscode\populatron-vscode\x64\Debug\populatron-vscode.exe
+﻿  testIt.cpp
+  populatron-vscode.vcxproj -> D:\Intrinsic\PlatformOneProjects\TDD Exercise\Checkpoint\usaf-populatron-cpp\TDDCheckpoint\populatorn-vscode\CheckpointTDD\CheckpointTDD\x64\Debug\populatron-vscode.exe
