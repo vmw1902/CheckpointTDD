@@ -1,0 +1,13 @@
+<<<<<<< HEAD:.gitignore
+Debug/*
+packages/*
+.vs/*
+.vs
+x64/*
+x64
+data/*
+=======
+Debug/
+x64/
+packages
+>>>>>>> parent of 8d34ead... another test:populatron-vscode/.gitignore

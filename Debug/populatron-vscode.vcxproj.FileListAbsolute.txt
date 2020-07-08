@@ -1,0 +1,2 @@
+C:\Users\ash.coca\git-dev\usaf-populatron-cpp\populatorn-vscode\populatron-vscode\Debug\populatron-vscode.exe
+C:\Users\ash.coca\git-dev\usaf-populatron-cpp\populatorn-vscode\populatron-vscode\Debug\populatron-vscode.pdb

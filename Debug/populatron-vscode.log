@@ -1,0 +1,3 @@
+﻿gmock.lib(gtest-all.obj) : warning LNK4099: PDB 'gmock.pdb' was not found with 'gmock.lib(gtest-all.obj)' or at 'C:\Users\ash.coca\git-dev\usaf-populatron-cpp\populatorn-vscode\populatron-vscode\Debug\gmock.pdb'; linking object as if no debug info
+gmock.lib(gmock-all.obj) : warning LNK4099: PDB 'gmock.pdb' was not found with 'gmock.lib(gmock-all.obj)' or at 'C:\Users\ash.coca\git-dev\usaf-populatron-cpp\populatorn-vscode\populatron-vscode\Debug\gmock.pdb'; linking object as if no debug info
+  populatron-vscode.vcxproj -> C:\Users\ash.coca\git-dev\usaf-populatron-cpp\populatorn-vscode\populatron-vscode\Debug\populatron-vscode.exe
